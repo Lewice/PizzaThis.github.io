@@ -333,7 +333,7 @@ function resetCalculator() {
   
   <div style="margin-bottom: 10px;"></div>
   
-  <h3> Pasta </h3>
+  <h3> Pizza </h3>
   
   <div>
     <input type="checkbox" id="Salad" value="300">
@@ -348,7 +348,7 @@ function resetCalculator() {
   </div>
   
   <div>
-    <input type="checkbox" id="TurkeySammie" value="150">
+    <input type="checkbox" id="TurkeySammie" value="200">
     <label for="TurkeySammie">Margherita - 200$</label>
     <input type="number" value="1" min="1">
   </div>
