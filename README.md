@@ -392,12 +392,6 @@ function resetCalculator() {
 </div>
 
 <div>
-  <input type="checkbox" id="30off" value="-30%">
-  <label for="30off">Non Fresh Items - 30% off</label>
-  <input type="number" value="1" min="1" max="1">
-</div>
-
-<div>
   <input type="checkbox" id="50off" value="-50%">
   <label for="50off">Employee Discount - 50% off</label>
   <input type="number" value="1" min="1" max="1">
