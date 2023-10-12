@@ -4,13 +4,14 @@
   <title>Menu Calculator</title>
     <style>
     body {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      height: 260vh;
-      text-align: center;
-    }
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 260vh;
+    text-align: center;
+    background-color: #ADD8E6; /* Set the background color to light blue */
+}
 	.total-box {
 		display: flex;
 		justify-content: center; /* Center horizontally */
@@ -220,7 +221,7 @@ function resetCalculator() {
 	
 <div style="margin-bottom: 25px;"></div>
  
-<body style="background-color:F4F5F0;">
+<body>
 	<img src="pizzathis.png" alt="Company Logo!">
   <h1>Menu Calculator</h1>
   
